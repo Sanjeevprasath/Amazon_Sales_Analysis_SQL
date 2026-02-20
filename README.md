@@ -1,6 +1,6 @@
 🛒 Amazon Sales Analysis – Advanced SQL Business Case Study
 
-
+![Dashboard Screenshot](IMG01.png)
 
 📌 Project Overview
 
